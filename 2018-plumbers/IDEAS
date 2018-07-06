@@ -1,0 +1,5 @@
+ * Entering/exiting syscall state
+ * PID translation
+ * Syscall ABI
+ * pwait6
+ * Absence of consistent declarative syscall descriptions
